@@ -92,7 +92,7 @@ resource "aws_route_table_association" "private" {
 
 #Create Application Load Balancer with help of module
 #Create S3+Cloudfront hosting with Module
-#Create RDS Module
+#Create RDS Module for Multi DB Engines
 
 
 #TOPICS:
@@ -102,3 +102,6 @@ resource "aws_route_table_association" "private" {
   # Provisioners
   # How to Register Module
   # How to Use Other's Module
+  # Terraform State Management
+  # Terraform Output
+  # Terraform Multiple Module Integration
