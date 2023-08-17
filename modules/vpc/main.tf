@@ -93,3 +93,12 @@ resource "aws_route_table_association" "private" {
 #Create Application Load Balancer with help of module
 #Create S3+Cloudfront hosting with Module
 #Create RDS Module
+
+
+#TOPICS:
+  # Conditions
+  # for_each loop
+  # Providers Versions Importance
+  # Provisioners
+  # How to Register Module
+  # How to Use Other's Module
